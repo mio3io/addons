@@ -1,0 +1,29 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "mio3_symmetry",
+      "name": "Mio3 Symmetry",
+      "tagline": "Mesh Symmetry Tools",
+      "version": "0.9.3",
+      "type": "add-on",
+      "maintainer": "Mio",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/mio3io",
+      "copyright": [
+        "2025 Mio"
+      ],
+      "tags": [
+        "Mesh"
+      ],
+      "archive_url": "./mio3_symmetry-0.9.3.zip",
+      "archive_size": 23062,
+      "archive_hash": "sha256:1c0d5d30a7d3063773e9c095e366e1235e908aeb35e0efe42185eafbcabcdb69"
+    }
+  ]
+}
