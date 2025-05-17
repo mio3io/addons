@@ -7,7 +7,7 @@
       "id": "mio3_mesh_tools",
       "name": "Mio3 Mesh Tools",
       "tagline": "Curve Edges, and Mesh Tools",
-      "version": "0.9.0",
+      "version": "0.10.0",
       "type": "add-on",
       "maintainer": "Mio",
       "license": [
@@ -21,16 +21,16 @@
       "tags": [
         "Mesh"
       ],
-      "archive_url": "./mio3_mesh_tools-20250507.zip",
-      "archive_size": 23770,
-      "archive_hash": "sha256:b454d0c31a2b225c4d78c93ad515a9c2d74e9ee13e0d1a1268aa168bfb14d6be"
+      "archive_url": "./mio3_mesh_tools-0.10.0.zip",
+      "archive_size": 48434,
+      "archive_hash": "sha256:b972aa20b9a8f811e97b087e7a78c19488fdf16a40b6a70eff13633419c32403"
     },
     {
       "schema_version": "1.0.0",
       "id": "mio3_symmetry",
       "name": "Mio3 Symmetry",
       "tagline": "Mesh Symmetry Tools",
-      "version": "0.9.4",
+      "version": "0.10.0",
       "type": "add-on",
       "maintainer": "Mio",
       "license": [
@@ -44,9 +44,9 @@
       "tags": [
         "Mesh"
       ],
-      "archive_url": "./mio3_symmetry-0.9.4.zip",
-      "archive_size": 24265,
-      "archive_hash": "sha256:5e8018c0d73176cb4181b750af2b0d2e0c5ec45b277a59d981db03e0c8724a2c"
+      "archive_url": "./mio3_symmetry-0.10.0.zip",
+      "archive_size": 24245,
+      "archive_hash": "sha256:6f49b01ea6c3f034a9a58d1e587de51d75b75048a04a309f6a6eead6e02d32a2"
     }
   ]
 }
