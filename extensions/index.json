@@ -27,6 +27,29 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "mio3_sculpt",
+      "name": "Mio3 Sculpt",
+      "tagline": "Sculpt Tools",
+      "version": "0.1.0",
+      "type": "add-on",
+      "maintainer": "Mio",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/mio3io/mio3_sculpt",
+      "copyright": [
+        "2025 Mio"
+      ],
+      "tags": [
+        "Sculpt"
+      ],
+      "archive_url": "./mio3_sculpt-0.1.0.zip",
+      "archive_size": 15436,
+      "archive_hash": "sha256:1828e286352cbbaa60a345595e48150525cc5a3f1f51512b27de54b4d1cd2010"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "mio3_symmetry",
       "name": "Mio3 Symmetry",
       "tagline": "Mesh Symmetry Tools",
