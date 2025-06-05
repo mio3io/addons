@@ -30,7 +30,7 @@
       "id": "mio3_sculpt",
       "name": "Mio3 Sculpt",
       "tagline": "Sculpt Tools",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "type": "add-on",
       "maintainer": "Mio",
       "license": [
@@ -44,9 +44,9 @@
       "tags": [
         "Sculpt"
       ],
-      "archive_url": "./mio3_sculpt-0.1.1.zip",
-      "archive_size": 15430,
-      "archive_hash": "sha256:6839151d0655985ef7f6972f9a36affd74a8e10a8e8ed45d19a02d975f20d13c"
+      "archive_url": "./mio3_sculpt-0.1.2.zip",
+      "archive_size": 15448,
+      "archive_hash": "sha256:c5edccc29308c53005b0af74259463f8712ff58063a69436af47054373d30992"
     },
     {
       "schema_version": "1.0.0",
