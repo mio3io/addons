@@ -7,7 +7,7 @@
       "id": "mio3_mesh_tools",
       "name": "Mio3 Mesh Tools",
       "tagline": "Curve Edges, and Mesh Tools",
-      "version": "0.10.0",
+      "version": "0.11.0",
       "type": "add-on",
       "maintainer": "Mio",
       "license": [
@@ -21,16 +21,16 @@
       "tags": [
         "Mesh"
       ],
-      "archive_url": "./mio3_mesh_tools-0.10.0.zip",
-      "archive_size": 48434,
-      "archive_hash": "sha256:b972aa20b9a8f811e97b087e7a78c19488fdf16a40b6a70eff13633419c32403"
+      "archive_url": "./mio3_mesh_tools-0.11.zip",
+      "archive_size": 53966,
+      "archive_hash": "sha256:a97b9bbc13ba6832d9ae7594f4d488245cb8684d05559b6aa3f3be8007fcba42"
     },
     {
       "schema_version": "1.0.0",
       "id": "mio3_sculpt",
       "name": "Mio3 Sculpt",
       "tagline": "Sculpt Tools",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "type": "add-on",
       "maintainer": "Mio",
       "license": [
@@ -44,9 +44,9 @@
       "tags": [
         "Sculpt"
       ],
-      "archive_url": "./mio3_sculpt-0.1.2.zip",
-      "archive_size": 15448,
-      "archive_hash": "sha256:c5edccc29308c53005b0af74259463f8712ff58063a69436af47054373d30992"
+      "archive_url": "./mio3_sculpt-0.1.3.zip",
+      "archive_size": 16528,
+      "archive_hash": "sha256:e47bfbe143e9432d791beee5dd9725d4240c0ef478fa21c22c428cd1eb37d856"
     },
     {
       "schema_version": "1.0.0",
