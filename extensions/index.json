@@ -50,6 +50,30 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "mio3_shape_keys",
+      "name": "Mio3 Shape Keys",
+      "tagline": "ShapeKey Tools",
+      "version": "3.0.0-beta-20250622",
+      "type": "add-on",
+      "maintainer": "Mio",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/mio3io/mio3_shape_keys",
+      "copyright": [
+        "2025 Mio"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "./mio3_shape_keys-20250622.zip",
+      "archive_size": 130523,
+      "archive_hash": "sha256:f091da9cde111764682327b1bb198a745c33c6561702beefd3bf141842869f71"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "mio3_symmetry",
       "name": "Mio3 Symmetry",
       "tagline": "Mesh Symmetry Tools",
