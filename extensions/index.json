@@ -7,7 +7,7 @@
       "id": "mio3_mesh_tools",
       "name": "Mio3 Mesh Tools",
       "tagline": "Curve Edges, and Mesh Tools",
-      "version": "0.12.0",
+      "version": "0.13.0",
       "type": "add-on",
       "maintainer": "Mio",
       "license": [
@@ -21,9 +21,9 @@
       "tags": [
         "Mesh"
       ],
-      "archive_url": "./mio3_mesh_tools-0.12.zip",
-      "archive_size": 54100,
-      "archive_hash": "sha256:a5256a2651e1d1cd2a3bac26996c1529a09ddc016e2fe7ecdd56efc1554befc2"
+      "archive_url": "./mio3_mesh_tools-0.13.zip",
+      "archive_size": 54196,
+      "archive_hash": "sha256:0967b26fc95b44575dc8aeebf8a43b4870eb557db69f1ce4230bd43aeb340714"
     },
     {
       "schema_version": "1.0.0",
