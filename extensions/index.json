@@ -4,6 +4,30 @@
   "data": [
     {
       "schema_version": "1.0.0",
+      "id": "mio3_flex",
+      "name": "Mio3 Flex",
+      "tagline": "Deforms an edge loop with a spline curve",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Mio",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/mio3io/mio3_flex",
+      "copyright": [
+        "2026 Mio"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "./mio3_flex-1.0.0.zip",
+      "archive_size": 29666,
+      "archive_hash": "sha256:b26190ffa53455600f7ff2905c3ce1558609ebc298b20e8827af49a01113fa90"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "mio3_mesh_tools",
       "name": "Mio3 Mesh Tools",
       "tagline": "Curve Edges, and Mesh Tools",
