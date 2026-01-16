@@ -4,52 +4,6 @@
   "data": [
     {
       "schema_version": "1.0.0",
-      "id": "mio3_mesh_tools",
-      "name": "Mio3 Mesh Tools",
-      "tagline": "Curve Edges, and Mesh Tools",
-      "version": "0.13.0",
-      "type": "add-on",
-      "maintainer": "Mio",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "website": "https://github.com/mio3io/mio3_mesh_tools",
-      "copyright": [
-        "2025 Mio"
-      ],
-      "tags": [
-        "Mesh"
-      ],
-      "archive_url": "./mio3_mesh_tools-0.13.zip",
-      "archive_size": 54196,
-      "archive_hash": "sha256:0967b26fc95b44575dc8aeebf8a43b4870eb557db69f1ce4230bd43aeb340714"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "mio3_sculpt",
-      "name": "Mio3 Sculpt",
-      "tagline": "Sculpt Tools",
-      "version": "0.1.3",
-      "type": "add-on",
-      "maintainer": "Mio",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "4.2.0",
-      "website": "https://github.com/mio3io/mio3_sculpt",
-      "copyright": [
-        "2025 Mio"
-      ],
-      "tags": [
-        "Sculpt"
-      ],
-      "archive_url": "./mio3_sculpt-0.1.3.zip",
-      "archive_size": 16528,
-      "archive_hash": "sha256:e47bfbe143e9432d791beee5dd9725d4240c0ef478fa21c22c428cd1eb37d856"
-    },
-    {
-      "schema_version": "1.0.0",
       "id": "mio3_shape_keys",
       "name": "Mio3 Shape Keys",
       "tagline": "ShapeKey Tools",
@@ -77,7 +31,7 @@
       "id": "mio3_symmetry",
       "name": "Mio3 Symmetry",
       "tagline": "Mesh Symmetry Tools",
-      "version": "0.10.0",
+      "version": "0.11.0",
       "type": "add-on",
       "maintainer": "Mio",
       "license": [
@@ -91,9 +45,9 @@
       "tags": [
         "Mesh"
       ],
-      "archive_url": "./mio3_symmetry-0.10.0.zip",
-      "archive_size": 24245,
-      "archive_hash": "sha256:6f49b01ea6c3f034a9a58d1e587de51d75b75048a04a309f6a6eead6e02d32a2"
+      "archive_url": "./mio3_symmetry-0.11.0.zip",
+      "archive_size": 28069,
+      "archive_hash": "sha256:8ec3b88560e9c4b7260ca17b0669a9a668497efa1323a37f072c67cc06dbc401"
     }
   ]
 }
