@@ -28,6 +28,30 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "mio3_shrink_tools",
+      "name": "Mio3 Shrink Tools",
+      "tagline": "Support tool set for creating shrink shape keys for avatars",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Mio",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/mio3io",
+      "copyright": [
+        "2026 Mio"
+      ],
+      "tags": [
+        "Mesh",
+        "Modeling"
+      ],
+      "archive_url": "./mio3_shrink_tools-1.0.0.zip",
+      "archive_size": 24789,
+      "archive_hash": "sha256:b06219a74436bca19c6e1de228cf56f0e154c155ce12dd497748dff0acd3e0ed"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "mio3_symmetry",
       "name": "Mio3 Symmetry",
       "tagline": "Mesh Symmetry Tools",
