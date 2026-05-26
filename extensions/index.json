@@ -7,7 +7,7 @@
       "id": "mio3_shape_keys",
       "name": "Mio3 Shape Keys",
       "tagline": "ShapeKey Tools",
-      "version": "3.0.0-beta-20260405c",
+      "version": "3.0.0-beta-20260526",
       "type": "add-on",
       "maintainer": "Mio",
       "license": [
@@ -25,9 +25,9 @@
         "Mesh",
         "Modeling"
       ],
-      "archive_url": "./mio3_shape_keys-3.0.0-beta-20260405c.zip",
-      "archive_size": 138306,
-      "archive_hash": "sha256:55644f976d518381d783ed56e4b658aa8920c9d421a5872ff1b982a7060564af"
+      "archive_url": "./mio3_shape_keys-3.0.0-beta-20260526.zip",
+      "archive_size": 140600,
+      "archive_hash": "sha256:36fb81bb0296051faeef864af761870660716e9a0ed11467b9c598836f634319"
     },
     {
       "schema_version": "1.0.0",
